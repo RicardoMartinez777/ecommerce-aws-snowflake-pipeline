@@ -110,9 +110,10 @@ A single fact table is created:
 
 ![Staging Clean vs Rejects](docs/images/staging_clean_vs_rejects.png)
 
-### STAGING Layer — Clean vs Rejected Records
+### ANALYTICS Layer — Business Queries
 
-![Staging Clean vs Rejects](docs/images/staging_clean_vs_rejects.png)
+![Analytics Queries](docs/images/analytics_queries.png)
+
 
 ---
 
